@@ -1,0 +1,9 @@
+{
+  "name": "nexorabyte",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/DeftLuke/Nexorabyte.git",
+  "author": "DeftLuke <lukedean750@gmail.com>",
+  "license": "MIT",
+  "dev": "next dev"
+}
